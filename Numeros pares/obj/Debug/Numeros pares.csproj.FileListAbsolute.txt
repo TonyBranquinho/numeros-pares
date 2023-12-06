@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Numeros pares\Numeros pares\bin\Debug\Numeros pares.exe.config
+C:\temp\ws-vs2019\Numeros pares\Numeros pares\bin\Debug\Numeros pares.exe
+C:\temp\ws-vs2019\Numeros pares\Numeros pares\bin\Debug\Numeros pares.pdb
+C:\temp\ws-vs2019\Numeros pares\Numeros pares\obj\Debug\Numeros pares.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Numeros pares\Numeros pares\obj\Debug\Numeros pares.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Numeros pares\Numeros pares\obj\Debug\Numeros pares.exe
+C:\temp\ws-vs2019\Numeros pares\Numeros pares\obj\Debug\Numeros pares.pdb
